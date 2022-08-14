@@ -1,0 +1,211 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+                            /* ex1 */
+/* .bai1 {
+    width: 560px;
+    height: auto;
+}
+.bai1 h3{
+    color: blue;
+}
+.bai1 p{
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.group1 {
+    background-color: rgb(254,250,238);
+    border-left: 10px solid goldenrod;
+} */
+
+                            /* ex2 */
+/* .bai2 {
+    width: 720px;
+}
+.box1{
+    background-color:white;
+    color: black;
+    font-size: 16px;
+    text-align: center;
+    border: 2px solid green;
+    padding: 20px;
+}
+.box2 {
+    background-color: rgb(229,232,237);
+    margin-top: 20px;
+    padding: 10px;
+}
+.box2 p {
+    background-color: white;
+    border-left: 3px solid green;
+}
+.button {
+    font-size: 20px;
+    padding: 10px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    border: 0px;
+    font-weight: bold;
+} */
+
+                                    /* ex3 */
+/* .box {
+    width: 300px;
+}
+.box2{
+    
+    background-color:rgb(135,144,150);
+    padding: 50px;
+    font-size: 26px;
+    text-align: center;
+    color: white;
+}
+.box3 div{
+    border: 1px solid rgb(135,144,150);
+    padding: 10px;
+}
+.box4 { 
+    text-align: center;
+} */
+
+                                    /* ex4 */
+/* .blog-container{
+    width: 460px;
+}
+.blog-container img {
+    width: 100%;
+}
+.blog-container h2 {
+    font-size: 26px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.blog-container p {
+    font-weight: 300;
+} */
+
+                                    /* ex5 */
+/* .box1{
+    width: 80%;
+    border: 1px solid gray;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+.box2{
+    padding: 10px;
+    background-color: rgb(247,247,247);
+}
+.box3{
+    padding: 10px;
+}
+.box3 p {
+    padding: 15px;
+}
+.box3 button{
+    background-color: rgb(32, 186, 242);
+    padding: 10px;
+    border-radius: 3px;
+    border: 0px;
+    color:white;
+}
+.box4{
+    padding: 10px;
+    color: grey;
+    background-color: rgb(247,247,247);
+} */
+
+                                /* ex6 */
+/* .box{
+    width: 300px;
+    border-radius: 3px;
+    border: 2px solid gray;
+}
+.box span{
+    font-weight: bold;
+    padding: 10px;
+    padding-right: 150px;
+}
+.box p{
+    padding: 10px;
+}
+.box button{
+    border: 0px;
+    padding: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius:7px ;
+    background-color: rgb(9,112,255);
+    color: white;
+    font-weight: bold;
+} */
+
+
+                            /* ex7 */
+/* .box{
+    width: 400px;
+    border: 2px solid gray;
+    border-radius: 3px;
+}
+.box p{
+    padding: 10px;
+}
+.box h2{
+    padding: 10px;
+}
+.box button{
+    padding: 10px;
+    margin: 10px;
+    margin-left: 220px;
+    background-color: rgb(9,112,255);
+    border: 0px;
+    border-radius: 5px;
+    color: white;
+}  */
+                                /* ex8 */
+/* .box { 
+    width: 700px;
+    border: 2px solid gray;
+    border-radius: 3px;
+}
+.box1{
+    color: blue;
+    background-color: rgb(232,242,255);
+    padding: 10px;
+}
+.box div{
+    padding: 10px;
+} */
+                                /* ex9 */
+
+.box { 
+    width: 500px;
+    border: 2px solid gray;
+    border-radius: 3px;
+}
+.box button{
+    padding: 5px;
+    padding-left: 13px;
+    margin: 5px;
+    background-color: rgb(9,112,255);
+    border: 0px;
+    border-radius: 10px;
+    color: rgb(9,112,255);
+}
+.a{
+    color:rgb(115,118,123) ;
+    font-weight: bold;
+    padding-right: 280px;
+}
+.d{
+    color:rgb(115,118,123) ;
+    font-weight: 1000;
+    padding-left: 15px;
+}
+.box p {
+    padding: 10px;
+}
